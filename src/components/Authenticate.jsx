@@ -1,3 +1,3 @@
-export default function SignUpForm() {
-    return <h2>Sign Up!</h2>;
-  }
+export default function Authenticate() {
+  return <h2>Authenticate!</h2>;
+}
