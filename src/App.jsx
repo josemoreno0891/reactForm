@@ -1,5 +1,6 @@
-import Authenticate from "./components/Authenticate.jsx";
-import SignUpForm from ".components/SignUpForm.jsx";
+import Authenticate from "./components/authenticate";
+import SignUpForm from "./components/signupform";
+
 export default function App() {
   return (
     <>
